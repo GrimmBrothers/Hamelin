@@ -1,0 +1,2 @@
+# Hamelin
+Hamelin strategy code.
