@@ -1,7 +1,7 @@
 ---
 author:
 - Bruno Mazorra, Michael Reynolds
-date: July 2022
+date: September 2022
 title: "The Polygon Pied Piper Stategy"
 ---
 <div style="text-align: center;">
