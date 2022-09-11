@@ -24,9 +24,9 @@ changes in price and liquidity from other trades.
 
 ## Setup
 
-- 'git clone https://github.com/GrimmBrothers/Hamelin'
-- 'brownie networks modify polygon-main host={rpc url} explorer={https://api.polygonscan.com/api}'
-- import accounts to brownie (e.g. 'brownie accounts import hamelin1 '{keystore file}''')
+- `git clone https://github.com/GrimmBrothers/Hamelin`
+- `brownie networks modify polygon-main host={rpc url} explorer={https://api.polygonscan.com/api}`
+- import accounts to brownie (e.g. `brownie accounts import hamelin1 '{keystore file}'`)
 - edit the top of hamelin-strategy.py with your own parameters / list of accounts
 
-On running hamelin-strategy.py succesfully, the output of the spam analysis will be in the directory 'out/'.
+On running hamelin-strategy.py succesfully, the output of the spam analysis will be in the directory `out/`.
